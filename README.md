@@ -16,7 +16,7 @@ logo = r"""
 """
 
 
-
+'''python
 import art
 
 
@@ -70,4 +70,4 @@ def calculator():
 
 
 calculator()
-
+'''
