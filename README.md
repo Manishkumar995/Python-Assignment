@@ -1,5 +1,5 @@
 
-'''python
+```
 import art
 
 
@@ -25,10 +25,10 @@ operations = {
     "*": multiply,
     "/": divide,
 }
-
+```
 # print(operations["*"](4, 8))
 
-
+```
 def calculator():
     print(art.logo)
     should_accumulate = True
@@ -53,4 +53,4 @@ def calculator():
 
 
 calculator()
-'''
+```
