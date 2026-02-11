@@ -1,4 +1,4 @@
-**Python Assignment -calculator_using_python**
+**Python Assignment -calculator_using_python Using Functions**
 ``` 
 import art
 
